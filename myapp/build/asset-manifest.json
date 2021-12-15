@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39b7d858.chunk.css",
+    "main.js": "/static/js/main.efa05857.chunk.js",
+    "main.js.map": "/static/js/main.efa05857.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.08732606.js",
+    "runtime-main.js.map": "/static/js/runtime-main.08732606.js.map",
+    "static/js/2.fbe39214.chunk.js": "/static/js/2.fbe39214.chunk.js",
+    "static/js/2.fbe39214.chunk.js.map": "/static/js/2.fbe39214.chunk.js.map",
+    "static/js/3.6cf21f10.chunk.js": "/static/js/3.6cf21f10.chunk.js",
+    "static/js/3.6cf21f10.chunk.js.map": "/static/js/3.6cf21f10.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.39b7d858.chunk.css.map": "/static/css/main.39b7d858.chunk.css.map",
+    "static/js/2.fbe39214.chunk.js.LICENSE.txt": "/static/js/2.fbe39214.chunk.js.LICENSE.txt",
+    "static/media/appstore.1cf19677.webp": "/static/media/appstore.1cf19677.webp",
+    "static/media/first_phone.4607122b.webp": "/static/media/first_phone.4607122b.webp",
+    "static/media/jumbo.css": "/static/media/food.7a07461e.jpeg",
+    "static/media/googleplay.678a96e6.webp": "/static/media/googleplay.678a96e6.webp",
+    "static/media/second_phone.52898333.webp": "/static/media/second_phone.52898333.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08732606.js",
+    "static/js/2.fbe39214.chunk.js",
+    "static/css/main.39b7d858.chunk.css",
+    "static/js/main.efa05857.chunk.js"
+  ]
+}
